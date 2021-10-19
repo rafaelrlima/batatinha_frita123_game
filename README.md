@@ -9,16 +9,16 @@ Arquivos de vídeos deverão ser colocados no diretório videos
 
 O que está funcionando
 
-Vídeo explicando o jogo
-Contagem da boneca
-detecção de movimento por web cam
-morrer se movimentar
-ganhar se não se movimentar por 5 segundos
+* Vídeo explicando o jogo
+* Contagem da boneca
+* detecção de movimento por web cam
+* morrer se movimentar
+* ganhar se não se movimentar por 5 segundos
 
 O que precisa melhorar
-Transição entre telas
-Repetir contagem da boneca
-Definir número de rodadas até ganhar
-menu principal
+* Transição entre telas
+* Repetir contagem da boneca
+* Definir número de rodadas até ganhar
+* menu principal
 
 
