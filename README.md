@@ -1,4 +1,4 @@
-# batatinha_frita123_game
+# Batatinha Frita 123_ python game beta
 Versão Beta do Jogo Batatinha Frita 123 baseado na série Round 6 (Squid Game) utilizando python e opencv
 Desenvolvido em Python 3.7
 
